@@ -21,6 +21,6 @@ This Discord bot status changer is a simple JavaScript application that allows y
   DISCORD SERVER : (https://discord.gg/Mk4kZxFskA)                                                    
   YOUTUBE : Coming Soon                                                 
  * **********************************************
- *   Code by AMEEN BABU                                            
+ *   Code by Wolf Bots                                            
  * **********************************************
  */
