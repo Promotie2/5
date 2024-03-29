@@ -76,7 +76,7 @@ function updateStatusAndSendMessages() {
 
   client.user.setPresence({
     activities: [{ name: currentStatus, type: ActivityType.Custom}],
-    status: 'Invisible',
+    status: 'idle',
   });
 
   
