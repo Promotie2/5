@@ -37,7 +37,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Members"];
+const statusMessages = ["Bekijkt Wolf Bots"];
 
 
 let currentIndex = 0;
@@ -76,7 +76,7 @@ function updateStatusAndSendMessages() {
 
   client.user.setPresence({
     activities: [{ name: currentStatus, type: ActivityType.Custom}],
-    status: 'Invisible',
+    status: 'Invis',
   });
 
   
