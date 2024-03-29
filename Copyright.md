@@ -7,7 +7,7 @@ Wolf Bots                                            retains all rights, includi
 
 For inquiries about licensing, please contact [Ricardodebeast1].
 
-/**
+
                                                                                   
                                                                                             
   
@@ -16,4 +16,4 @@ For inquiries about licensing, please contact [Ricardodebeast1].
  * **********************************************
  *   Code by Wolf Bots                                         
  * **********************************************
- */
+ 
