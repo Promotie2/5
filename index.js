@@ -1,16 +1,11 @@
 /**
- █████  ███    ███ ███████ ███████ ███    ██     ██████   █████  ██████  ██    ██ 
-██   ██ ████  ████ ██      ██      ████   ██     ██   ██ ██   ██ ██   ██ ██    ██ 
-███████ ██ ████ ██ █████   █████   ██ ██  ██     ██████  ███████ ██████  ██    ██ 
-██   ██ ██  ██  ██ ██      ██      ██  ██ ██     ██   ██ ██   ██ ██   ██ ██    ██ 
-██   ██ ██      ██ ███████ ███████ ██   ████     ██████  ██   ██ ██████   ██████  
                                                                                   
                                                                                             
-  GIT :https://github.com/Ameen-Babu                                                              
-  DISCORD SERVER : (https://discord.gg/Dpa7ZMAyEn)                                                     
-  YOUTUBE : https://www.youtube.com/@gaming_squawk                                                   
+  GIT :Coming Soon                                                           
+  DISCORD SERVER : (https://discord.gg/Mk4kZxFskA)                                                     
+  YOUTUBE : Coming Soon                                                 
  * **********************************************
- *   Code by AMEEN BABU                                            
+ *   Code by Wolf Bots                                          
  * **********************************************
  */
 
@@ -54,18 +49,13 @@ async function login() {
 }
 
 /**
- █████  ███    ███ ███████ ███████ ███    ██     ██████   █████  ██████  ██    ██ 
-██   ██ ████  ████ ██      ██      ████   ██     ██   ██ ██   ██ ██   ██ ██    ██
-███████ ██ ████ ██ █████   █████   ██ ██  ██     ██████  ███████ ██████  ██    ██ 
-██   ██ ██  ██  ██ ██      ██      ██  ██ ██     ██   ██ ██   ██ ██   ██ ██    ██ 
-██   ██ ██      ██ ███████ ███████ ██   ████     ██████  ██   ██ ██████   ██████  
-                                                                                  
+
                                                                                             
-GIT :https://github.com/Ameen-Babu                                                              
-  DISCORD SERVER : (https://discord.gg/Dpa7ZMAyEn)                                                     
-  YOUTUBE : https://www.youtube.com/@gaming_squawk                                                   
+GIT :Coming Soon                                                           
+  DISCORD SERVER : (https://discord.gg/Mk4kZxFskA)                                                     
+  YOUTUBE : Coming Soon                                                
  * **********************************************
- *   Code by AMEEN BABU                                            
+ *   Code by Wolf Bots                                          
  * **********************************************
  */
 
@@ -106,17 +96,13 @@ client.once('ready', () => {
 login();
 
 /**
- █████  ███    ███ ███████ ███████ ███    ██     ██████   █████  ██████  ██    ██ 
-██   ██ ████  ████ ██      ██      ████   ██     ██   ██ ██   ██ ██   ██ ██    ██ 
-███████ ██ ████ ██ █████   █████   ██ ██  ██     ██████  ███████ ██████  ██    ██ 
-██   ██ ██  ██  ██ ██      ██      ██  ██ ██     ██   ██ ██   ██ ██   ██ ██    ██ 
-██   ██ ██      ██ ███████ ███████ ██   ████     ██████  ██   ██ ██████   ██████  
+
                                                                                   
                                                                                             
-GIT :https://github.com/Ameen-Babu                                                              
-  DISCORD SERVER : (https://discord.gg/Dpa7ZMAyEn)                                                     
-  YOUTUBE : https://www.youtube.com/@gaming_squawk                                                   
+GIT :Coming Soon                                                              
+  DISCORD SERVER : (https://discord.gg/Mk4kZxFskA)                                                     
+  YOUTUBE : Coming Soon                                                   
  * **********************************************
- *   Code by AMEEN BABU                                            
+ *   Code by Wolf Bots                                          
  * **********************************************
  */
