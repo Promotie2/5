@@ -14,7 +14,7 @@ This Discord bot status changer is a simple JavaScript application that allows y
 3. Add your token in secrets
 
 
-/**
+
                                                                                   
                                                                                             
 
@@ -23,4 +23,4 @@ This Discord bot status changer is a simple JavaScript application that allows y
  * **********************************************
  *   Code by Wolf Bots                                            
  * **********************************************
- */
+ 
