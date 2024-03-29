@@ -11,6 +11,9 @@ This Discord bot status changer is a simple JavaScript application that allows y
    ```shell
    npm install
    ```
+     ```shell
+   npm start
+   ```
 3. Add your token in secrets
 
 
