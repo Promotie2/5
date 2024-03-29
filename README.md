@@ -15,16 +15,11 @@ This Discord bot status changer is a simple JavaScript application that allows y
 
 
 /**
- █████  ███    ███ ███████ ███████ ███    ██     ██████   █████  ██████  ██    ██ 
-██   ██ ████  ████ ██      ██      ████   ██     ██   ██ ██   ██ ██   ██ ██    ██ 
-███████ ██ ████ ██ █████   █████   ██ ██  ██     ██████  ███████ ██████  ██    ██ 
-██   ██ ██  ██  ██ ██      ██      ██  ██ ██     ██   ██ ██   ██ ██   ██ ██    ██ 
-██   ██ ██      ██ ███████ ███████ ██   ████     ██████  ██   ██ ██████   ██████  
                                                                                   
                                                                                             
 
-  DISCORD SERVER : (https://discord.gg/Dpa7ZMAyEn)                                                     
-  YOUTUBE : https://www.youtube.com/@gaming_squawk                                                   
+  DISCORD SERVER : (https://discord.gg/Mk4kZxFskA)                                                    
+  YOUTUBE : Coming Soon                                                 
  * **********************************************
  *   Code by AMEEN BABU                                            
  * **********************************************
