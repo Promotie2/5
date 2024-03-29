@@ -1,25 +1,16 @@
-/**
- █████  ███    ███ ███████ ███████ ███    ██     ██████   █████  ██████  ██    ██ 
-██   ██ ████  ████ ██      ██      ████   ██     ██   ██ ██   ██ ██   ██ ██    ██ 
-███████ ██ ████ ██ █████   █████   ██ ██  ██     ██████  ███████ ██████  ██    ██ 
-██   ██ ██  ██  ██ ██      ██      ██  ██ ██     ██   ██ ██   ██ ██   ██ ██    ██ 
-██   ██ ██      ██ ███████ ███████ ██   ████     ██████  ██   ██ ██████   ██████  
-                                                                                  
-                                                                                            
-
-  DISCORD SERVER : (https://discord.gg/Dpa7ZMAyEn)                                                     
-  YOUTUBE : https://www.youtube.com/@gaming_squawk                                                   
+  DISCORD SERVER : (https://discord.gg/Mk4kZxFskA)                                                   
+  YOUTUBE : Coming Soon                                                  
  * **********************************************
- *   Code by AMEEN BABU                                            
+ *   Code by Wolf Bots                                            
  * **********************************************
- */
+ 
 
 # code License Agreement
 
-**Effective Date:** 19/10/2023
+**Effective Date:** 29/3/2024
 
 **Between:**
-[AMEEN BABU                                            ]
+[Wolf Bots                                           ]
 
 **And:**
 End-User ("Licensee")
@@ -54,24 +45,19 @@ Licensor's liability for any damages arising out of this Agreement shall be limi
 
 ## Contact Information
 
-If you have any questions or need to contact Licensor, please reach out to [AMEEN_BABU#0001].
+If you have any questions or need to contact Licensor, please reach out to [Ricardodebeast1].
 
 ---
 
 **By using the code, Licensee agrees to the terms of this License Agreement.**
 
-/**
- █████  ███    ███ ███████ ███████ ███    ██     ██████   █████  ██████  ██    ██ 
-██   ██ ████  ████ ██      ██      ████   ██     ██   ██ ██   ██ ██   ██ ██    ██ 
-███████ ██ ████ ██ █████   █████   ██ ██  ██     ██████  ███████ ██████  ██    ██ 
-██   ██ ██  ██  ██ ██      ██      ██  ██ ██     ██   ██ ██   ██ ██   ██ ██    ██ 
-██   ██ ██      ██ ███████ ███████ ██   ████     ██████  ██   ██ ██████   ██████  
+ 
                                                                                   
                                                                                             
 
-  DISCORD SERVER : (https://discord.gg/Dpa7ZMAyEn)                                                     
-  YOUTUBE : https://www.youtube.com/@gaming_squawk                                                   
+  DISCORD SERVER : (https://discord.gg/Mk4kZxFskA)                                                     
+  YOUTUBE : Coming Soon                                                
  * **********************************************
- *   Code by AMEEN BABU                                            
+ *   Code by Wolf Bots                                           
  * **********************************************
  */
